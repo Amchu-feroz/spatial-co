@@ -93,7 +93,7 @@ export default function Portfolio() {
 
         <img
           src={images[index]}
-          className="w-[700px] h-[450px] object-cover rounded-3xl shadow-xl"
+          className="w-175 h-112.5 object-cover rounded-3xl shadow-xl"
         />
 
         <button
