@@ -24,10 +24,6 @@ export default function Navbar() {
           Contact
         </a>
 
-        <Link href="/login" className="hover:text-[#E6CCB2]">
-          Login
-        </Link>
-
       </div>
 
     </nav>
